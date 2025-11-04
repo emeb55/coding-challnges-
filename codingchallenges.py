@@ -103,3 +103,16 @@ if sum == number_1 + number_2:
 
 elif sum != number_1 + number2:
     print("Sorry, try another time")
+
+
+
+
+# WEEK 2  CODING CHALLENGES 
+
+
+def calculate_area(width, height):
+    width = input("Width of area: ")
+    height = input("Height of area: ")
+    int(width, height)
+    area = width * height 
+    return area 
